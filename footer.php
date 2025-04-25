@@ -34,7 +34,7 @@
                                 <input class="mb1 mb0-sm" type="email" name="assinarnews" required="true" placeholder="Seu e-mail">
                                 <button class="btn-txt nowrap ml1" type="submit">Assinar</button>
                             </form> -->
-                            <a class="btn-txt" href="<?php echo home_url('contato'); ?>">Conheça nossas newsletters</a>
+                            <a class="btn-txt" href="<?php echo home_url('contato'); ?>">Conheça nossa newsletter</a>
                         </div>
                     </div>
                     <div class="row">
